@@ -1,5 +1,7 @@
 ### Sup y'all 🖖🏼
 
+<img src ="img/logo-nb.png" style="width:30%;float:right">
+
 I'm Pablo (he/him) 🤠
 -  I like science and math. 
 -  I currently work as a postdoctoral researcher at the [Center for Animal Disease Modeling and Surveillance](https://cadms.vetmed.ucdavis.edu) at UC Davis. 
